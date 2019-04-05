@@ -24,30 +24,30 @@ public class Hello implements HelloPortType {
     public Hello() {
     }
 
-    @WebMethod
+    @Override
     public String sayHello(String name) {
         return message + name + ".";
     }
 
-    @WebMethod
+    @Override
     public String add(double i, double j) {
         double add = i + j;
         return i + " + " + j + " = " + add;
     }
 
-    @WebMethod
+    @Override
     public String sub(double i, double j) {
         double sub = i - j;
         return i + " - " + j + " = " + sub;
     }
 
-    @WebMethod
+    @Override
     public String mul(double i, double j) {
         double mul = i * j;
         return i + " x " + j + " = " + mul;
     }
 
-    @WebMethod
+    @Override
     public String div(double i, double j) {
         if (j == 0){
             return "divisor can't be 0";

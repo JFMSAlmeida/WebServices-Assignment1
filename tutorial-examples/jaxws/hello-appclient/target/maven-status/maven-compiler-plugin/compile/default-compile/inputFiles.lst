@@ -1,15 +1,15 @@
-/home/berhart/Desktop/WebServices and Cloud/Practice_1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/Mul.java
-/home/berhart/Desktop/WebServices and Cloud/Practice_1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/SayHello.java
-/home/berhart/Desktop/WebServices and Cloud/Practice_1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/HelloService.java
-/home/berhart/Desktop/WebServices and Cloud/Practice_1/tutorial-examples/jaxws/hello-appclient/src/main/java/javaeetutorial/hello/appclient/HelloAppClient.java
-/home/berhart/Desktop/WebServices and Cloud/Practice_1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/Div.java
-/home/berhart/Desktop/WebServices and Cloud/Practice_1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/Hello.java
-/home/berhart/Desktop/WebServices and Cloud/Practice_1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/package-info.java
-/home/berhart/Desktop/WebServices and Cloud/Practice_1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/SayHelloResponse.java
-/home/berhart/Desktop/WebServices and Cloud/Practice_1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/SubResponse.java
-/home/berhart/Desktop/WebServices and Cloud/Practice_1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/MulResponse.java
-/home/berhart/Desktop/WebServices and Cloud/Practice_1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/Sub.java
-/home/berhart/Desktop/WebServices and Cloud/Practice_1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/AddResponse.java
-/home/berhart/Desktop/WebServices and Cloud/Practice_1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/ObjectFactory.java
-/home/berhart/Desktop/WebServices and Cloud/Practice_1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/Add.java
-/home/berhart/Desktop/WebServices and Cloud/Practice_1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/DivResponse.java
+/home/berhart/Desktop/WebServices and Cloud-based Systems/WebServices-Assignment1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/package-info.java
+/home/berhart/Desktop/WebServices and Cloud-based Systems/WebServices-Assignment1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/Div.java
+/home/berhart/Desktop/WebServices and Cloud-based Systems/WebServices-Assignment1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/HelloService.java
+/home/berhart/Desktop/WebServices and Cloud-based Systems/WebServices-Assignment1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/Sub.java
+/home/berhart/Desktop/WebServices and Cloud-based Systems/WebServices-Assignment1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/MulResponse.java
+/home/berhart/Desktop/WebServices and Cloud-based Systems/WebServices-Assignment1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/Hello.java
+/home/berhart/Desktop/WebServices and Cloud-based Systems/WebServices-Assignment1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/SubResponse.java
+/home/berhart/Desktop/WebServices and Cloud-based Systems/WebServices-Assignment1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/AddResponse.java
+/home/berhart/Desktop/WebServices and Cloud-based Systems/WebServices-Assignment1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/SayHello.java
+/home/berhart/Desktop/WebServices and Cloud-based Systems/WebServices-Assignment1/tutorial-examples/jaxws/hello-appclient/src/main/java/javaeetutorial/hello/appclient/HelloAppClient.java
+/home/berhart/Desktop/WebServices and Cloud-based Systems/WebServices-Assignment1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/DivResponse.java
+/home/berhart/Desktop/WebServices and Cloud-based Systems/WebServices-Assignment1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/SayHelloResponse.java
+/home/berhart/Desktop/WebServices and Cloud-based Systems/WebServices-Assignment1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/Mul.java
+/home/berhart/Desktop/WebServices and Cloud-based Systems/WebServices-Assignment1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/Add.java
+/home/berhart/Desktop/WebServices and Cloud-based Systems/WebServices-Assignment1/tutorial-examples/jaxws/hello-appclient/target/generated-sources/wsimport/javaeetutorial/helloservice/endpoint/ObjectFactory.java
