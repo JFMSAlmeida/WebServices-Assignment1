@@ -12,12 +12,15 @@
   <message name="subResponse">
     <part name="parameters" element="tns:subResponse"/>
   </message>
+<<<<<<< HEAD
   <message name="mul">
     <part name="parameters" element="tns:mul"/>
   </message>
   <message name="mulResponse">
     <part name="parameters" element="tns:mulResponse"/>
   </message>
+=======
+>>>>>>> 2f0ec0192eb68d5297a438f8c0fc2bbca612de00
   <message name="sayHello">
     <part name="parameters" element="tns:sayHello"/>
   </message>
@@ -41,10 +44,13 @@
       <input wsam:Action="http://helloservice.javaeetutorial/Hello/subRequest" message="tns:sub"/>
       <output wsam:Action="http://helloservice.javaeetutorial/Hello/subResponse" message="tns:subResponse"/>
     </operation>
+<<<<<<< HEAD
     <operation name="mul">
       <input wsam:Action="http://helloservice.javaeetutorial/Hello/mulRequest" message="tns:mul"/>
       <output wsam:Action="http://helloservice.javaeetutorial/Hello/mulResponse" message="tns:mulResponse"/>
     </operation>
+=======
+>>>>>>> 2f0ec0192eb68d5297a438f8c0fc2bbca612de00
     <operation name="sayHello">
       <input wsam:Action="http://helloservice.javaeetutorial/Hello/sayHelloRequest" message="tns:sayHello"/>
       <output wsam:Action="http://helloservice.javaeetutorial/Hello/sayHelloResponse" message="tns:sayHelloResponse"/>
