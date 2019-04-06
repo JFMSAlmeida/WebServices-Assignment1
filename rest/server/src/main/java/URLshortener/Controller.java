@@ -26,8 +26,10 @@ public class Controller {
     @RequestMapping(value = "/", method = RequestMethod.POST)
     public ResponseEntity<String>  post(@RequestParam(value="url") String url) {
         int id = URLshortener.getInstance().addUrl(url);
-        if(id != -1)
-            return new ResponseEntity<>(id.toString(), HttpStatus.OK); //status response code = 200
+        if(id != -1) {
+            String idToString = Integer.toString(id);
+            return new ResponseEntity<>(idToString, HttpStatus.OK); //status response code = 200
+        }
         else
             return new ResponseEntity<>("error", HttpStatus.BAD_REQUEST); //status response code = 400
     }
@@ -47,7 +49,7 @@ public class Controller {
         if(flag != -1)
             return new ResponseEntity<>(HttpStatus.OK); //status response code = 301
         else
-            return new ResponseEntity<>(HttpStatus.BAD_REQUEST); //status response code = 400
+            return new ResponseEntity<>("error", HttpStatus.BAD_REQUEST); //status response code = 400
         //404 NOT FOUND in a PUT request???
     }
 

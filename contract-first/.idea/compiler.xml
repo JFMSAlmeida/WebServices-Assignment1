@@ -7,10 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="maven-archiver (2)" />
-        <module name="hello-webclient" />
+        <module name="hello-appclient" />
         <module name="maven-archiver (1)" />
         <module name="helloservice-war" />
-        <module name="hello-appclient" />
+        <module name="hello-webclient" />
       </profile>
     </annotationProcessing>
   </component>
