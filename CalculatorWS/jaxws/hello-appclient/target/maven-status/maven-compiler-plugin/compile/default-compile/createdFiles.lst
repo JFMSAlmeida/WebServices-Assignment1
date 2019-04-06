@@ -1,0 +1,15 @@
+javaeetutorial/helloservice/endpoint/Div.class
+javaeetutorial/helloservice/endpoint/DivResponse.class
+javaeetutorial/helloservice/endpoint/Mul.class
+javaeetutorial/helloservice/endpoint/SayHelloResponse.class
+javaeetutorial/helloservice/endpoint/MulResponse.class
+javaeetutorial/helloservice/endpoint/ObjectFactory.class
+javaeetutorial/helloservice/endpoint/HelloService.class
+javaeetutorial/helloservice/endpoint/SubResponse.class
+javaeetutorial/hello/appclient/HelloAppClient.class
+javaeetutorial/helloservice/endpoint/SayHello.class
+javaeetutorial/helloservice/endpoint/Add.class
+javaeetutorial/helloservice/endpoint/Hello.class
+javaeetutorial/helloservice/endpoint/AddResponse.class
+javaeetutorial/helloservice/endpoint/Sub.class
+javaeetutorial/helloservice/endpoint/package-info.class
