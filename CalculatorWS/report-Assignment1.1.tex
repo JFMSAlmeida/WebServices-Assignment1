@@ -2,6 +2,7 @@
 \documentclass[a4paper]{article}
  \usepackage{indentfirst}
 \usepackage[margin=1.9cm, top= 10mm]{geometry}
+\usepackage{graphicx}
 
 \begin{document}
 \title{Assignment 1.1: Web Service (WDSL/SOAP)}
@@ -21,6 +22,9 @@ Our WSDL/SOAP Web Service was implemented using JAX-WS, Maven and Glassfish and 
 The implementation of the Client passes through the generation of the service classes through the WSDL (obtained from an hardcoded endpoint) and the implementation of the request methods. 
 \section*{Solution for making the Calculator service stateful}
 A simple solution to maintain state (assuming multiple users) is adding an unique Client token/identifier to each request (e.g. with a SOAP handler we can attach it to the SOAP header/body of the message) sent to the service and then the server keeps the result of the operations/state in a key-value data store ($<$k,v$>$ = $<$Client UID, state$>$).  The client in his future requests has to decide between methods that will use the previous result/state or methods that don't require the previous result (like the stateless methods already defined in the previous service implementation).
-
- 
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.75]{assignment1-1}
+    \caption{Stateful webservice solution siagram}
+\end{figure}
 \end{document}
